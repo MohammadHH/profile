@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ede0c70.css",
+    "main.js": "/static/js/main.e95d532a.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/book-shelf-large.png": "/static/media/book-shelf-large.e751c40fdb5405116cfe.png",
+    "static/media/book-shelf.png": "/static/media/book-shelf.e751c40fdb5405116cfe.png",
+    "static/media/nutrition-tracker-foods.png": "/static/media/nutrition-tracker-foods.16291fd5bc40d4b7cbf4.png",
+    "static/media/book-shelf-medium.png": "/static/media/book-shelf-medium.abd1e66c1a7815ad0eee.png",
+    "static/media/nutrition-tracker-mock.png": "/static/media/nutrition-tracker-mock.b61504e46d16a111fa4d.png",
+    "static/media/book-shelf-small.png": "/static/media/book-shelf-small.82414a1627448331c6b7.png",
+    "static/media/book-shelf-mockup.jpg": "/static/media/book-shelf-mockup.de703f0718aa56753426.jpg",
+    "static/media/nutrition-tracker-dashboard.png": "/static/media/nutrition-tracker-dashboard.513a096a8f13b68ce306.png",
+    "static/media/nutrition-tracker-history.png": "/static/media/nutrition-tracker-history.5568be70518507876c09.png",
+    "static/media/mohammad.png": "/static/media/mohammad.b639e4a5f86363df5637.png",
+    "static/media/nutrition-tracker-signup.png": "/static/media/nutrition-tracker-signup.64f00bb5d8d525329518.png",
+    "static/media/nutrition-tracker-add-food.png": "/static/media/nutrition-tracker-add-food.419492b30476603c5c84.png",
+    "static/media/nutrition-tracker-login.png": "/static/media/nutrition-tracker-login.71def3b2414cfc9a4336.png",
+    "static/media/nutrition-tracker-logo.svg": "/static/media/nutrition-tracker-logo.47271a87663b8197c440a7640afcb6c3.svg",
+    "static/media/book-shelf-logo.svg": "/static/media/book-shelf-logo.d61907c07b622142034e266059174c2e.svg",
+    "index.html": "/index.html",
+    "main.2ede0c70.css.map": "/static/css/main.2ede0c70.css.map",
+    "main.e95d532a.js.map": "/static/js/main.e95d532a.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ede0c70.css",
+    "static/js/main.e95d532a.js"
+  ]
+}
