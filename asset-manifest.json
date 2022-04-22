@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.2ede0c70.css",
-    "main.js": "/profile/static/js/main.6893aaf0.js",
+    "main.css": "/profile/static/css/main.c3f3f9f7.css",
+    "main.js": "/profile/static/js/main.4c5f9f0f.js",
     "static/js/787.fb771931.chunk.js": "/profile/static/js/787.fb771931.chunk.js",
     "static/media/book-shelf-large.png": "/profile/static/media/book-shelf-large.e751c40fdb5405116cfe.png",
     "static/media/book-shelf.png": "/profile/static/media/book-shelf.e751c40fdb5405116cfe.png",
@@ -19,12 +19,12 @@
     "static/media/nutrition-tracker-logo.svg": "/profile/static/media/nutrition-tracker-logo.47271a87663b8197c440a7640afcb6c3.svg",
     "static/media/book-shelf-logo.svg": "/profile/static/media/book-shelf-logo.d61907c07b622142034e266059174c2e.svg",
     "index.html": "/profile/index.html",
-    "main.2ede0c70.css.map": "/profile/static/css/main.2ede0c70.css.map",
-    "main.6893aaf0.js.map": "/profile/static/js/main.6893aaf0.js.map",
+    "main.c3f3f9f7.css.map": "/profile/static/css/main.c3f3f9f7.css.map",
+    "main.4c5f9f0f.js.map": "/profile/static/js/main.4c5f9f0f.js.map",
     "787.fb771931.chunk.js.map": "/profile/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ede0c70.css",
-    "static/js/main.6893aaf0.js"
+    "static/css/main.c3f3f9f7.css",
+    "static/js/main.4c5f9f0f.js"
   ]
 }
